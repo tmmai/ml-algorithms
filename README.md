@@ -11,3 +11,7 @@ This project is currently in progress. I will add algorithms as I go.
 ## Other
 
 Thank you for reading! Please feel free to let me know if there's any resources like must-read research articles/books and critical concepts related to ML/NLP/DL that can aid in my learning process! 
+
+Currently reading: 
+- Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications, Chip Huyen
+- Stanford CS 229 Lecture Notes, Andrew Ng (to refresh on fundamental concepts)
