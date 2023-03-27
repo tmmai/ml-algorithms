@@ -1,6 +1,6 @@
 ## Machine Learning Algorithms
 
-The goal of this project is to implement common ML algorithms from scratch using Numpy. The goal is not to achieve high levels of accuracy on individual projects but primarily to learn and practice solid underlying foundational understanding of common ML models. I think understanding the ins-and-outs of how algorithms are built vs. jumping straight to using pre-packaged libraries is a similar difference compared to understanding how to implement sorting algorithms vs. calling .sort(). 
+The goal of this project is to implement common ML algorithms from scratch using Numpy. The goal is not to achieve high levels of accuracy on individual projects but primarily to learn underlying foundational understanding of common ML models. I think understanding the ins-and-outs of how algorithms are built vs. jumping straight to using pre-packaged libraries is a similar difference compared to understanding how to implement sorting algorithms vs. calling .sort(). 
 
 ## Status: Work In Progress
 
